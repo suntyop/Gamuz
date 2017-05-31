@@ -1,4 +1,4 @@
 # Gamuz
 Client Gamuz Javascript
 
-voilà
+Le fichier principal est index.php.
