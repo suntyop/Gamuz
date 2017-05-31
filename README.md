@@ -1,5 +1,5 @@
-# Gamuz
-Client Gamuz Javascript
+# Gamuz.ovh - Client & serveur
+
 
 Le fichier principal du client (à ouvrir dans le navigateur) est index.php.
 
